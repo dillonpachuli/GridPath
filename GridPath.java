@@ -19,7 +19,22 @@ public class GridPath {
      * grid.
      */
     public Location getNextLoc(int row, int col) {
-        /* to be implemented in part (a) */ }
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     /**
      * Computes and returns the sum of all values on a path through grid, as
